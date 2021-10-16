@@ -3,7 +3,7 @@
 1. 開発環境Python3.8以上を確保
 2. [Mecab辞書をインストール](https://github.com/ikegami-yukino/mecab/releases)
 3. Mecabをインストール：pip3 mecab install
-4. 使用メールのSTMPとPOP３を調べて、コードを改修（自分使っているのはoutlookのメール）
+4. 使用メールのSMTPとPOP３を調べて、コードを改修（自分使っているのはoutlookのメール）
 
 <br/>
 
