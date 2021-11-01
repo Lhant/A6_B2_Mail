@@ -10,8 +10,8 @@
    |--|--|
    |mailuser|メールアドレス：ABC＠outlook.comとか|
    |mailpwd|パスワード|
-   |cmduser|操作メールのアドレス|
-   |cmdpwd|操作メールのパスワード（アルファベットのみabcdとか）|
+   |cmduser|操作アドレス|
+   |cmdpwd|操作パスワード（アルファベットのみabcdとか）|
    |finalmailid|最新のメールID|
 
 <br/>
