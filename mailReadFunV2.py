@@ -78,7 +78,7 @@ def readAllMail():
             zmail.show(mail)
     # 更新finalMailID
     finalMailID = server.stat()[0]
-    mailConfig.set('mail', 'finalMailID', str(finalMailID))
+    mailConfig.set('mail', 'finalMailID', str(finalMailID+1))
     mailConfig.write(open('userConfig.ini', 'w'))
 
 
